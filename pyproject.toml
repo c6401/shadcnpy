@@ -1,0 +1,17 @@
+[project]
+name = "shadcnpy"
+version = "0.1.0"
+description = "Toy port of shadcn to fast-html."
+readme = "README.md"
+authors = [{name = "c6401"}]
+license = {text = "MIT License"}
+requires-python = ">=3.8"
+classifiers = [
+    "License :: OSI Approved :: Apache Software License"
+]
+dependencies = [
+    "fast-html",
+]
+[project.urls]
+Homepage = "https://github.com/c6401/shadcnpy"
+Issues = "https://github.com/c6401/shadcnpy/issues"
